@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  VKServices
+
+  Created by Yana Dudareva on 19.02.2023.
+  
+*/
+
+"vkProjects" = "Проекты ВК";
+"ok" = "OK";
+"url" = "https://mobile-olympiad-trajectory.hb.bizmrg.com/semi-final-data.json";
+"failedDecode" = "Failed to decode JSON";
+"checkJSON" = "Please, check JSON";
+"error" = "Error received data:";
